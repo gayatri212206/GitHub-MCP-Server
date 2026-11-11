@@ -64,6 +64,7 @@ The server implements four GitHub tools:
           GitHub REST API
                  |
           GitHub Repository
+
 <img width="341" height="452" alt="image" src="https://github.com/user-attachments/assets/f92cd3c5-6e0a-48ab-9352-d8981546927d" />
 
 ```
