@@ -57,11 +57,11 @@ The server implements four GitHub tools:
 ```text
 github-mcp-server/
 │
-├── .venv/             # Virtual environment (not committed)
-├── .env               # GitHub token (not committed)
+├── .venv/            
+├── .env               
 ├── .gitignore
 ├── requirements.txt
-└── server.py          # MCP server and GitHub tools
+└── server.py          
 ```
 
 ## Getting Started
