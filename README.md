@@ -65,7 +65,8 @@ The server implements four GitHub tools:
                  |
           GitHub Repository
 
-<img width="341" height="452" alt="image" src="https://github.com/user-attachments/assets/f92cd3c5-6e0a-48ab-9352-d8981546927d" />
+<img width="753" height="255" alt="image" src="https://github.com/user-attachments/assets/26cf2908-34b2-471f-843a-870c3e2d6d95" />
+
 
 ```
 
