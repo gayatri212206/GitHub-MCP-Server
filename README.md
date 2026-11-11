@@ -12,6 +12,9 @@ This project provides an MCP-based interface that exposes these GitHub operation
 
 Instead of manually performing every operation through the GitHub interface, an MCP-compatible client can invoke the available tools.
 
+**Exposes GitHub operations through the Model Context Protocol.**
+
+
 ## What It Does
 
 The server implements four GitHub tools:
