@@ -44,26 +44,7 @@ The server implements four GitHub tools:
 
 ## Architecture
 
-```text
-       MCP-Compatible Client
-                 |
-                 | STDIO
-                 |
-          GitHub MCP Server
-                 |
-            FastMCP
-                 |
-       +---------+---------+
-       |         |         |
-   List Repos  Get Issues  Create Issue
-                 |
-             Add Labels
-                 |
-           HTTPX Client
-                 |
-          GitHub REST API
-                 |
-          GitHub Repository
+
 
 <img width="521" height="664" alt="image" src="https://github.com/user-attachments/assets/839c55ca-0646-4e42-a319-d2802d2ae520" />
 
