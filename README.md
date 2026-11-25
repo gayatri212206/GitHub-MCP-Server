@@ -4,6 +4,7 @@
 
 Built with Python, FastMCP, and the GitHub REST API.
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/gayatri212206/github-mcp-server)](https://m8ven.ai/mcp/gayatri212206/github-mcp-server?s=readme)
 ## Overview
 
 Managing GitHub repositories involves repetitive operations such as checking repositories, tracking issues, creating new issues, and assigning labels.
